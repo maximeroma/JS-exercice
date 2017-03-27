@@ -77,4 +77,17 @@ var addition = function(a, b, c){
 
 console.log(addition(2, 5, 3));
 
+	/*BONUS*/
+
+var additionArray = function(a){
+	var additionInFunction = 0;
+	for (var i = 0; i < a.length; i++){
+		additionInFunction += a[i];
+	};
+	return additionInFunction;
+};
+
+myArray = [1, 22, 100, 7];
+
+console.log(additionArray(myArray));
 
