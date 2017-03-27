@@ -42,6 +42,6 @@ var concatStringAndNumber = function(a, b){
 	return a + " " + b;
 };
 
-console.log(concatStringAndNumber(8, 'Hello World!'));
+console.log(concatStringAndNumber(8, 'Hello World!')); a
 
 
