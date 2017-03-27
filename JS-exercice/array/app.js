@@ -11,7 +11,7 @@ console.log(mois[2]);
 
 /*	##Exercice 3 */
 
-
+console.log(mois[5]); 
 
 
 
