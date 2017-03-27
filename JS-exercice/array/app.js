@@ -13,5 +13,7 @@ console.log(mois[2]);
 
 console.log(mois[5]); 
 
+/*	##Exercice 4 */
 
+console.log(mois[10]);
 
