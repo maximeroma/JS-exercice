@@ -40,3 +40,8 @@ console.log(array[4]);
 
 array.splice(1, 1);
 console.log(array);
+
+/* Exercice 11 */
+
+array[2] = 'Poire';
+console.log(array[2]);
