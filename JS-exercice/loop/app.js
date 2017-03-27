@@ -23,4 +23,15 @@ var multipleAndDecrementation = function(b){
 	}
 };
 
-multipleAndDecrementation(2);
+//multipleAndDecrementation(2);
+
+	/* Exercice4 */
+
+var halfIncrementation = function(){
+	for (var i = 1; i <= 10; i += (i / 2)){
+		console.log(i);
+	}
+};
+
+//halfIncrementation();
+
