@@ -52,4 +52,21 @@ var concatThreeThings = function(nom, prenom, age){
 
 console.log(concatThreeThings('roma', 'maxime', 22));
 
+	/* Exercice7 */
+
+var multipleChoice = function(age, genre) {
+	if ( age >= 18 && genre === 'homme'){
+		return "Vous êtes un homme et vous êtes majeur.";
+	} else if (age < 18 && genre === 'homme'){
+		return "Vous êtes un homme et vous êtes mineur.";
+	} else if ( age >= 18 && genre ==='femme'){
+		return "Vous êtes une femme et vous êtes majeur.";
+	} else {
+		return "Vous êtes une femme et vous êtes mineur.";
+	}
+	
+};
+
+console.log(multipleChoice(24, 'homme'));
+
 
