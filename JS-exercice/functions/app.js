@@ -5,3 +5,11 @@ var functionTrue = function() {
 };
 
 console.log(functionTrue());
+
+	/* Exercice2 */
+
+var functionString = function(a) {
+	return a;
+};
+
+console.log(functionString("myString"));
