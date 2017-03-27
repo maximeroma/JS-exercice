@@ -32,6 +32,16 @@ var compareNumber = function(a, b) {
 	} else {
 		return "Le premier nombre est plus grand";
 	}
-}
+};
 
 console.log(compareNumber(8, 6));
+
+	/* Exercice5 */
+
+var concatStringAndNumber = function(a, b){
+	return a + " " + b;
+};
+
+console.log(concatStringAndNumber(8, 'Hello World!'));
+
+
