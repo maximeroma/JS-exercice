@@ -42,6 +42,14 @@ var concatStringAndNumber = function(a, b){
 	return a + " " + b;
 };
 
-console.log(concatStringAndNumber(8, 'Hello World!')); a
+console.log(concatStringAndNumber(8, 'Hello World!')); 
+
+	/* Exercice6 */
+
+var concatThreeThings = function(nom, prenom, age){
+	return "Bonjour " + nom + " " + prenom + ", tu as " + age + " ans";  
+};
+
+console.log(concatThreeThings('roma', 'maxime', 22));
 
 
