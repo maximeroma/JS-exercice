@@ -35,3 +35,13 @@ var halfIncrementation = function(){
 
 //halfIncrementation();
 
+	/* Exercice5 */
+
+var almostThere = function(){
+	for (var i = 1; i <= 15; i++){
+		console.log("On y est presque!");
+	}
+};
+
+//almostThere();
+
