@@ -17,3 +17,8 @@ console.log(mois[5]);
 
 console.log(mois[10]);
 
+/* Exercice 5 */
+
+array[7] = "août";
+console.log(array[7]);
+
