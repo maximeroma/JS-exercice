@@ -69,6 +69,8 @@ var multipleChoice = function(age, genre) {
 
 console.log(multipleChoice(24, 'homme'));
 
+	/*Exercice8 */
+
 var addition = function(a, b, c){
 	return a + b + c;
 };
