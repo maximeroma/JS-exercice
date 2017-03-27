@@ -35,3 +35,8 @@ console.log(array);
 
 array[4] = 'Citron';
 console.log(array[4]);
+
+/* Exercice 10 */
+
+array.splice(1, 1);
+console.log(array);
