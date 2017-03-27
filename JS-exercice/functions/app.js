@@ -13,3 +13,12 @@ var functionString = function(a) {
 };
 
 console.log(functionString("myString"));
+
+	/* Exercice3 */
+
+var concatString = function(a, b) {
+	return a + " " + b;
+};
+
+console.log(concatString('Hello', 'World!'));
+
