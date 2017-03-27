@@ -52,4 +52,14 @@ var isAlmostGood = function(){
 		console.log("On tient le bon bout");
 	}
 };
-isAlmostGood();
+//isAlmostGood();
+
+	/* Exercice7 */
+
+var isFinallyDone = function(){
+	for (var i = 200; i >= 0; i -= 12){
+		console.log("Enfin !!!!");
+	}
+};
+
+isFinallyDone();
