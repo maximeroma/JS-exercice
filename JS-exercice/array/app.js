@@ -31,3 +31,7 @@ console.log(mois);
 array.push('Courgette');
 console.log(array);
 
+/* Exercice 9 */
+
+array[4] = 'Citron';
+console.log(array[4]);
