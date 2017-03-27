@@ -37,7 +37,7 @@ var halfIncrementation = function(){
 
 	/* Exercice5 */
 
-var almostThere = function(){
+var isAlmostThere = function(){
 	for (var i = 1; i <= 15; i++){
 		console.log("On y est presque!");
 	}
@@ -45,3 +45,11 @@ var almostThere = function(){
 
 //almostThere();
 
+	/* Exercice6 */
+
+var isAlmostGood = function(){
+	for (var i = 0; i <= 100; i += 15){
+		console.log("On tient le bon bout");
+	}
+};
+isAlmostGood();
