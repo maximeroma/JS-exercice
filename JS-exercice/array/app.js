@@ -26,12 +26,11 @@ mois[7] = "août";
 
 var browseArray = function (a){
 	for ( var i = 0; i < a.length; i++){
-		console.log(i)
 		console.log(a[i]); 
 	}
 };
 
-browseArray(mois);
+//browseArray(mois);
 
 /* Exercice 8 */
 
@@ -52,3 +51,7 @@ array.splice(1, 1);
 
 array[2] = 'Poire';
 //console.log(array[2]);
+
+	/*Exercice12 */
+
+browseArray(array);

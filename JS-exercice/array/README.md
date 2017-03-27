@@ -44,3 +44,6 @@ Retirer "Cerise";
 
 ##Exercice 11
 Rajouter "Poire" en index 2 du tableau array;
+
+##Exercice 12
+Avec le tableau d'origine, afficher toutes les valeurs de ce tableau.
