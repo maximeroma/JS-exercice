@@ -19,10 +19,15 @@ console.log(mois[10]);
 
 /* Exercice 5 */
 
-array[7] = "août";
-console.log(array[7]);
+mois[7] = "août";
+console.log(mois[7]);
 
 /* Exercice 6 */
 
 console.log(mois);
+
+/* Exercice 8 */
+
+array.push('Courgette');
+console.log(array);
 
